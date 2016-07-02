@@ -12,7 +12,9 @@ Sample Test Case 01:
 Input:       x = fes(int) (print xxxxx)
 Output:      2
 Explanation: the number of () is 2, the whole string are valid syntax
+```
 Sample Test Case 02:
+```
 Input:       ()aaa (bbb(sss))ss))
 Output:      3
 Explanation: the number of () is 3 , the syntax is invalid, there are two consecutive right(left) parenthesis
